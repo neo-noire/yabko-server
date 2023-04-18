@@ -4,7 +4,7 @@
   "description": "payment backend",
   "main": "./src/index.js",
   "scripts": {
-    "start": "nodemon ./src/index.js"
+    "start": "nodemon index.js"
   },
   "author": "Matus Mykola, matus.nikolai@gmail.com",
   "license": "ISC",
